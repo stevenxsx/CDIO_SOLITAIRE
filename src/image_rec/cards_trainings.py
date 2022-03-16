@@ -2,7 +2,6 @@
 import cv2 
 import os
 
-from cv2 import Canny
 from cv2 import imread
 import cards
 
